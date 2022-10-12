@@ -12,3 +12,6 @@ Cara menjalankan git
 3. lakukan konfigurasi dengan menjalankan 'git config' yang berisi username dan email
 4. lalu, 'git init' untuk membuat repository local
 5. lalu, 'git add' untuk menambahkan sebuah file
+6. lalu, 'git commit' untuk menyimpan perubahan ke dalam database git
+7. lalu, 'git remote add origin <url>' untuk meremote repository local ke server
+8. lalu, 'git push -u origin master' untuk mengupload respository local ke server
